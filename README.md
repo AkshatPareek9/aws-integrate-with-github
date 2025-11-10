@@ -2,6 +2,8 @@
 
 This project demonstrates how to integrate a GitHub repository with AWS services (S3) using GitHub Actions for automated deployment.
 
+<img width="378" height="103" alt="image" src="https://github.com/user-attachments/assets/faa6b737-143e-4c32-abac-b3b6bc866606" />
+
 ## Steps to Set Up
 
 1. **Create an S3 bucket on AWS**
